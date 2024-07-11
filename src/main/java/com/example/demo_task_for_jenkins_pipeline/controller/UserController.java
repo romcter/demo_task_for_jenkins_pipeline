@@ -1,8 +1,8 @@
-package com.example.test_task_for_clearsolution.controller;
+package com.example.demo_task_for_jenkins_pipeline.controller;
 
-import com.example.test_task_for_clearsolution.dto.UserDto;
-import com.example.test_task_for_clearsolution.dto.UserFullDto;
-import com.example.test_task_for_clearsolution.service.UserService;
+import com.example.demo_task_for_jenkins_pipeline.dto.UserDto;
+import com.example.demo_task_for_jenkins_pipeline.dto.UserFullDto;
+import com.example.demo_task_for_jenkins_pipeline.service.UserService;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.Parameter;
 import jakarta.validation.Valid;

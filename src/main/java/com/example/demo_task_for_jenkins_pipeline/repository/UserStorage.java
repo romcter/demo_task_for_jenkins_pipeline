@@ -1,6 +1,6 @@
-package com.example.test_task_for_clearsolution.repository;
+package com.example.demo_task_for_jenkins_pipeline.repository;
 
-import com.example.test_task_for_clearsolution.domain.User;
+import com.example.demo_task_for_jenkins_pipeline.domain.User;
 import org.springframework.stereotype.Repository;
 
 import java.time.LocalDate;

@@ -1,4 +1,4 @@
-package com.example.test_task_for_clearsolution.dto;
+package com.example.demo_task_for_jenkins_pipeline.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

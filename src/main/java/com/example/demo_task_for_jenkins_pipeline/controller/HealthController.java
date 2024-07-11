@@ -1,4 +1,4 @@
-package com.example.test_task_for_clearsolution.controller;
+package com.example.demo_task_for_jenkins_pipeline.controller;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

@@ -1,4 +1,4 @@
-package com.example.test_task_for_clearsolution.config;
+package com.example.demo_task_for_jenkins_pipeline.config;
 
 import io.swagger.v3.oas.models.Components;
 import io.swagger.v3.oas.models.OpenAPI;

@@ -1,4 +1,4 @@
-package com.example.test_task_for_clearsolution.exeption;
+package com.example.demo_task_for_jenkins_pipeline.exeption;
 
 public class UserValidationException extends RuntimeException {
     public UserValidationException(String message){

@@ -1,10 +1,10 @@
-package com.example.test_task_for_clearsolution.service;
+package com.example.demo_task_for_jenkins_pipeline.service;
 
-import com.example.test_task_for_clearsolution.dto.UserDto;
-import com.example.test_task_for_clearsolution.dto.UserFullDto;
-import com.example.test_task_for_clearsolution.exeption.UserValidationException;
-import com.example.test_task_for_clearsolution.mapper.UserMapper;
-import com.example.test_task_for_clearsolution.repository.UserStorage;
+import com.example.demo_task_for_jenkins_pipeline.dto.UserDto;
+import com.example.demo_task_for_jenkins_pipeline.dto.UserFullDto;
+import com.example.demo_task_for_jenkins_pipeline.exeption.UserValidationException;
+import com.example.demo_task_for_jenkins_pipeline.mapper.UserMapper;
+import com.example.demo_task_for_jenkins_pipeline.repository.UserStorage;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 

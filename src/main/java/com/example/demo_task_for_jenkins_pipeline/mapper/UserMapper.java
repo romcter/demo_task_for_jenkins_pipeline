@@ -1,8 +1,8 @@
-package com.example.test_task_for_clearsolution.mapper;
+package com.example.demo_task_for_jenkins_pipeline.mapper;
 
-import com.example.test_task_for_clearsolution.domain.User;
-import com.example.test_task_for_clearsolution.dto.UserDto;
-import com.example.test_task_for_clearsolution.dto.UserFullDto;
+import com.example.demo_task_for_jenkins_pipeline.domain.User;
+import com.example.demo_task_for_jenkins_pipeline.dto.UserDto;
+import com.example.demo_task_for_jenkins_pipeline.dto.UserFullDto;
 import org.mapstruct.Mapper;
 import org.mapstruct.NullValuePropertyMappingStrategy;
 

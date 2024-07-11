@@ -1,4 +1,4 @@
-package com.example.test_task_for_clearsolution.dto;
+package com.example.demo_task_for_jenkins_pipeline.dto;
 
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotNull;
